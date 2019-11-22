@@ -1,0 +1,4 @@
+"OrganisationId","WeekDay","Times","IsOpen","OpeningTimeType"
+"1186","Monday","09:30-12:00","True","General"
+"1186","Wednesday","09:30-12:30","True","General"
+"1186","Friday","09:30-12:00","True","General"

@@ -1,0 +1,43 @@
+{
+    "fields": [
+        {
+            "name": "OrganisationId",
+            "title": "Organisation ID",
+            "constraints": {
+                "required": true,
+                "type": "http://www.w3.org/2001/XMLSchema#int"
+            }
+        },
+        {
+            "name": "WeekDay",
+            "title": "Day of the week",
+            "constraints": {
+                "required": true,
+                "pattern": "(Mon|Tue|Wednes|Thurs|Fri|Satur|Sun)day"
+            }
+        },
+        {
+            "name": "Times",
+            "constraints": {
+                "required": true,
+                "pattern": "(0[0-9]|1[0-2]):[0-5][0-9]-(0[0-9]|1[0-2]):[0-5][0-9]"
+            }
+        },
+        {
+            "name": "IsOpen",
+            "title": "Open?",
+            "constraints": {
+                "required": true,
+                "pattern": "(True|False)"
+            }
+        },
+        {
+            "name": "OpeningTimeType",
+            "title": "General or additional opening",
+            "constraints": {
+                "required": true,
+                "pattern": "(General|Additional)"
+            }
+        }
+    ]
+}
