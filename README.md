@@ -11,3 +11,8 @@ https://5stardata.info/en
 
 خصائص ملّفات CSV :
 https://tools.ietf.org/html/rfc4180
+
+
+schema for CSV file :
+http://specs.frictionlessdata.io/table-schema/ 
+
