@@ -16,3 +16,6 @@ https://tools.ietf.org/html/rfc4180
 schema for CSV file :
 http://specs.frictionlessdata.io/table-schema/ 
 
+
+Number of Deaths According to Governorates : 
+http://www.moh.gov.sy/Default.aspx?tabid=254&language=en-US
