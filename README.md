@@ -6,3 +6,8 @@ http://openbaladiati.tn/ar/dataset/budget-annuel-municipalite-jendouba/resource/
 تونس – برنامج أنشر - الديون المتخلّدة :
 http://openbaladiati.tn/ar/dataset/suivi-concessions-marches-municipalite-de-bouarada/resource/54125b59-3876-46e6-b6eb-0875fa6abf15
 
+5 Star Data pour TBL :
+https://5stardata.info/en
+
+خصائص ملّفات CSV :
+https://tools.ietf.org/html/rfc4180
