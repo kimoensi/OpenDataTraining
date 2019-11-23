@@ -41,3 +41,7 @@ https://csvkit.readthedocs.io/en/latest/scripts/csvstat.html
 
 CKAN demo :  
 https://demo.ckan.org/en
+
+
+DataJournalism course:  
+https://datajournalism.com/
